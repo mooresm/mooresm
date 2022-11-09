@@ -1,4 +1,10 @@
-### Hi there 👋
+### R packages
+
+I am the maintainer of the following packages on CRAN:
+
+[bayesImageS](https://CRAN.R-project.org/package=bayesImageS) Bayesian Methods for Image Segmentation using a Potts Model
+
+[serrsBayes](https://CRAN.R-project.org/package=serrsBayes) Bayesian Modelling of Raman Spectroscopy
 
 <!--
 **mooresm/mooresm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
